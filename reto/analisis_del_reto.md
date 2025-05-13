@@ -225,3 +225,4 @@ Req= Resistencia equivalente en paralelo (Ohmios)
 
 - (char): Tipo de conexión (Serie o Paralelo)
 
+- **link del video de sustentacion:** https://drive.google.com/file/d/1hPBBC5bgR4BRJSKh9uiqkaHQS8hA6tO7/view?usp=sharing
